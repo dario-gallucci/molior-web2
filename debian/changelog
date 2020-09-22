@@ -1,3 +1,10 @@
+molior-web (1.4.0~alpha89) stable; urgency=medium
+
+  * build: add start and endtime
+  * login: fix post msg
+
+ -- André Roth <neolynx@gmail.com>  Tue, 22 Sep 2020 08:14:04 +0000
+
 molior-web (1.4.0~alpha88) stable; urgency=medium
 
   * bump version 1.4.0~alpha88
