@@ -1,3 +1,11 @@
+molior-web (1.4.0~alpha96) stable; urgency=medium
+
+  * build: improve start and end time
+  * repo: improve style
+  * repo info: fix positioning
+
+ -- André Roth <neolynx@gmail.com>  Fri, 25 Sep 2020 11:00:07 +0000
+
 molior-web (1.4.0~alpha94) stable; urgency=medium
 
   * bump version 1.4.0~alpha94
