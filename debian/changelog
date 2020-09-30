@@ -1,3 +1,10 @@
+molior-web (1.4.0~alpha110) stable; urgency=medium
+
+  * repo: add merge
+  * project: use dialog for project delete
+
+ -- André Roth <neolynx@gmail.com>  Wed, 30 Sep 2020 19:33:39 +0200
+
 molior-web (1.4.0~alpha109) stable; urgency=medium
 
   * projectversion: fix
