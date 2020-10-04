@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha116) stable; urgency=medium
+
+  * bump version 1.4.0~alpha116
+
+ -- André Roth <neolynx@gmail.com>  Sun, 04 Oct 2020 20:51:20 +0000
+
 molior-web (1.4.0~alpha115) stable; urgency=medium
 
   * repo merge: fix display url
