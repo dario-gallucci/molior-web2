@@ -1,3 +1,11 @@
+molior-web (1.4.0~alpha115) stable; urgency=medium
+
+  * repo merge: fix display url
+  * repo merge: exclude duplicate from original improvement
+  * repo merge: exclude duplicate from original
+
+ -- André Roth <neolynx@gmail.com>  Sun, 04 Oct 2020 20:16:08 +0000
+
 molior-web (1.4.0~alpha113) stable; urgency=medium
 
   * repo: fix merge duplicate
