@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha123) stable; urgency=medium
+
+  * bump version 1.4.0~alpha123
+
+ -- André Roth <neolynx@gmail.com>  Sun, 11 Oct 2020 22:05:29 +0000
+
 molior-web (1.4.0~alpha122) stable; urgency=medium
 
   * bump version 1.4.0~alpha122
