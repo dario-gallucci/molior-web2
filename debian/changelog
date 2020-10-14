@@ -1,3 +1,23 @@
+molior-web (1.4.0~alpha127) stable; urgency=medium
+
+  * repository: delete
+  * repo: resize page
+  * fix warning with circular dependencies
+  * projectversion: add ci builds info
+  * projectversion: delete
+  * rename dependencies
+  * fix typo
+  * repository: get dependents
+  * projectversion: display dependency policy
+  * mirror: resize table
+  * color mirror
+  * mv project info
+  * projectinfo: fix builds table
+  * rename projectinfo
+  * projectversion: fix source repo list
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Wed, 14 Oct 2020 12:24:44 +0000
+
 molior-web (1.4.0~alpha126) stable; urgency=medium
 
   * fix route calls
