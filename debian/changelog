@@ -1,3 +1,14 @@
+molior-web (1.4.0~alpha144) stable; urgency=medium
+
+  * build: add buttons
+  * project version: add actions
+  * project: fix msg in delete form
+  * build: filter by commit
+  * repo: fix search
+  * nodes: add more info
+
+ -- André Roth <neolynx@gmail.com>  Fri, 30 Oct 2020 17:26:17 +0000
+
 molior-web (1.4.0~alpha143) stable; urgency=medium
 
   * build duration: show hrs
