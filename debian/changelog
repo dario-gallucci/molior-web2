@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha145) stable; urgency=medium
+
+  * bump version 1.4.0~alpha145
+
+ -- André Roth <neolynx@gmail.com>  Sat, 31 Oct 2020 23:06:31 +0000
+
 molior-web (1.4.0~alpha144) stable; urgency=medium
 
   * build: add buttons
