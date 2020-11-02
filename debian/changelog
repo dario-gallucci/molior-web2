@@ -1,3 +1,11 @@
+molior-web (1.4.0~alpha147) stable; urgency=medium
+
+  * cleanup
+  * projectversion: add dependents
+  * mirror: add copy
+
+ -- André Roth <neolynx@gmail.com>  Mon, 02 Nov 2020 11:51:46 +0000
+
 molior-web (1.4.0~alpha146) stable; urgency=medium
 
   * bump version 1.4.0~alpha146
