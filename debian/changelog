@@ -1,3 +1,11 @@
+molior-web (1.4.0~alpha150) stable; urgency=medium
+
+  * nodes: remove Type
+  * nodes: add memory and disk status indicator
+  * build table: improve format for duration
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Tue, 03 Nov 2020 15:51:55 +0000
+
 molior-web (1.4.0~alpha149) stable; urgency=medium
 
   * add actions menu
