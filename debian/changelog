@@ -1,3 +1,16 @@
+molior-web (1.4.0~alpha149) stable; urgency=medium
+
+  * add actions menu
+  * improvements and fixes
+  * user: add actions
+  * project: fix add
+  * add alerts to dialogs
+  * nodes: add type
+  * repo list: add state
+  * mirror: add delete dialog with an alert
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Tue, 03 Nov 2020 14:27:33 +0000
+
 molior-web (1.4.0~alpha148) stable; urgency=medium
 
   * bump version 1.4.0~alpha148
