@@ -1,3 +1,14 @@
+molior-web (1.4.0~alpha151) stable; urgency=medium
+
+  * node: add missing info
+  * node: update via ws
+  * projectversion: add dependency and dependent ids
+  * node list: cleanup
+  * user: disable settings button
+  * mirror: disable no key download
+
+ -- André Roth <neolynx@gmail.com>  Wed, 04 Nov 2020 17:32:14 +0000
+
 molior-web (1.4.0~alpha150) stable; urgency=medium
 
   * nodes: remove Type
