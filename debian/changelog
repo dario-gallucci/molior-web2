@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha155) stable; urgency=medium
+
+  * node info: fix
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Thu, 05 Nov 2020 16:09:10 +0000
+
 molior-web (1.4.0~alpha154) stable; urgency=medium
 
   * node: fix info
