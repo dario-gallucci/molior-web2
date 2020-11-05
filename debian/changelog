@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha153) stable; urgency=medium
+
+  * source repo: add delete dialog, add actions
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Thu, 05 Nov 2020 13:45:53 +0000
+
 molior-web (1.4.0~alpha152) stable; urgency=medium
 
   * fix unsubscribe ws
