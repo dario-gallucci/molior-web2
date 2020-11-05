@@ -1,3 +1,10 @@
+molior-web (1.4.0~alpha156) stable; urgency=medium
+
+  * node list: add table wrapper
+  * rm useless icons
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Thu, 05 Nov 2020 18:03:58 +0000
+
 molior-web (1.4.0~alpha155) stable; urgency=medium
 
   * node info: fix
