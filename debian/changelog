@@ -1,3 +1,10 @@
+molior-web (1.4.0~alpha154) stable; urgency=medium
+
+  * node: fix info
+  * source repo: fix delete
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Thu, 05 Nov 2020 16:02:16 +0000
+
 molior-web (1.4.0~alpha153) stable; urgency=medium
 
   * source repo: add delete dialog, add actions
