@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha157) stable; urgency=medium
+
+  * node info: add ram and disk meters
+
+ -- André Roth <neolynx@gmail.com>  Sat, 07 Nov 2020 18:21:20 +0000
+
 molior-web (1.4.0~alpha156) stable; urgency=medium
 
   * node list: add table wrapper
