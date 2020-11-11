@@ -1,3 +1,14 @@
+molior-web (1.4.0~alpha170) stable; urgency=medium
+
+  * project permissions: add dialog for delete
+  * project: improve permissions
+  * mirror dependents: improve table style
+  * pv: cleanup dependents
+  * pv: fix table for dependecnies
+  * pv: cleanup dependecies
+
+ -- André Roth <neolynx@gmail.com>  Wed, 11 Nov 2020 21:53:14 +0000
+
 molior-web (1.4.0~alpha169) stable; urgency=medium
 
   * bump version 1.4.0~alpha169
