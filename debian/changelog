@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha171) stable; urgency=medium
+
+  * bump version 1.4.0~alpha171
+
+ -- André Roth <neolynx@gmail.com>  Thu, 12 Nov 2020 08:20:58 +0000
+
 molior-web (1.4.0~alpha170) stable; urgency=medium
 
   * project permissions: add dialog for delete
