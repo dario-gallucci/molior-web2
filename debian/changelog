@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha173) stable; urgency=medium
+
+  * project permissions: fix filter
+
+ -- André Roth <neolynx@gmail.com>  Fri, 13 Nov 2020 11:18:41 +0000
+
 molior-web (1.4.0~alpha172) stable; urgency=medium
 
   * bump version 1.4.0~alpha172
