@@ -1,3 +1,10 @@
+molior-web (1.4.0~alpha174) stable; urgency=medium
+
+  * delete build
+  * repo edit: edit url
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Tue, 17 Nov 2020 19:24:51 +0000
+
 molior-web (1.4.0~alpha173) stable; urgency=medium
 
   * project permissions: fix filter
