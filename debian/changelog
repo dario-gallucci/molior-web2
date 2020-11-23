@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha178) stable; urgency=medium
+
+  * mirror: add keys to info
+
+ -- André Roth <neolynx@gmail.com>  Mon, 23 Nov 2020 08:29:42 +0000
+
 molior-web (1.4.0~alpha177) stable; urgency=medium
 
   * bump version 1.4.0~alpha177
