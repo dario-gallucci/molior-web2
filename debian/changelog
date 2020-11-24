@@ -1,3 +1,10 @@
+molior-web (1.4.0~alpha179) stable; urgency=medium
+
+  * project permission: fix edit username
+  * build delete: add dialog
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Tue, 24 Nov 2020 08:43:01 +0000
+
 molior-web (1.4.0~alpha178) stable; urgency=medium
 
   * mirror: add keys to info
