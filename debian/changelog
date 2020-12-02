@@ -1,3 +1,11 @@
+molior-web (1.4.0~alpha181) stable; urgency=medium
+
+  * add build rebuild dialog
+  * build table: improve duration format and add start time
+  * projectversion: rename clone to copy
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Wed, 02 Dec 2020 14:27:09 +0000
+
 molior-web (1.4.0~alpha180) stable; urgency=medium
 
   * repo reclone: add dialog
