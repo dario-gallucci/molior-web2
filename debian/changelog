@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha182) stable; urgency=medium
+
+  * fix edit git repo
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Mon, 07 Dec 2020 17:04:48 +0000
+
 molior-web (1.4.0~alpha181) stable; urgency=medium
 
   * add build rebuild dialog
