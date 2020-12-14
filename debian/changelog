@@ -1,3 +1,10 @@
+molior-web (1.4.0~alpha191) stable; urgency=medium
+
+  * cleanup
+  * build table: add arch
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Mon, 14 Dec 2020 15:13:50 +0000
+
 molior-web (1.4.0~alpha190) stable; urgency=medium
 
   * build info: add basemirror, arch and projectver
