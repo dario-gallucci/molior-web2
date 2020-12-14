@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha190) stable; urgency=medium
+
+  * build info: add basemirror, arch and projectver
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Mon, 14 Dec 2020 14:59:22 +0000
+
 molior-web (1.4.0~alpha189) stable; urgency=medium
 
   * mirror: fix copy and edit
