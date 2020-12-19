@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha192) stable; urgency=medium
+
+  * build info: adjust error finder
+
+ -- André Roth <neolynx@gmail.com>  Sat, 19 Dec 2020 22:34:46 +0000
+
 molior-web (1.4.0~alpha191) stable; urgency=medium
 
   * cleanup
