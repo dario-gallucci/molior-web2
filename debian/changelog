@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha194) stable; urgency=medium
+
+  * bump version 1.4.0~alpha194
+
+ -- André Roth <neolynx@gmail.com>  Sun, 03 Jan 2021 13:02:31 +0000
+
 molior-web (1.4.0~alpha193) stable; urgency=medium
 
   * arch: add icons
