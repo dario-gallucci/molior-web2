@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha199) stable; urgency=medium
+
+  * bump version 1.4.0~alpha199
+
+ -- André Roth <neolynx@gmail.com>  Mon, 04 Jan 2021 18:29:12 +0100
+
 molior-web (1.4.0~alpha198) stable; urgency=medium
 
   * improve router link view
