@@ -6,6 +6,8 @@ molior-web (1.4.0~alpha202) stable; urgency=medium
   * build info: display mirror
   * mirror info: fix href
 
+ -- Karol Swiderski <szakalboss@gmail.com>  Tue, 05 Jan 2021 17:00:02 +0000
+
 molior-web (1.4.0~alpha201) stable; urgency=medium
 
   * mirror info: fix external repo
