@@ -1,3 +1,10 @@
+molior-web (1.4.0~alpha205) stable; urgency=medium
+
+  * improve mirror dialog and info
+  * dialogs: disable buttons on save
+
+ -- Karol Swiderski <szakalboss@gmail.com>  Thu, 07 Jan 2021 13:31:22 +0000
+
 molior-web (1.4.0~alpha204) stable; urgency=medium
 
   * projectversion: adapt to new api
