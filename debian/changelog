@@ -1,3 +1,10 @@
+molior-web (1.4.0~alpha218) stable; urgency=medium
+
+  * build table: add starttime tooltip
+  * mirror: fix components separator
+
+ -- André Roth <neolynx@gmail.com>  Wed, 13 Jan 2021 13:31:20 +0000
+
 molior-web (1.4.0~alpha217) stable; urgency=medium
 
   * bump version 1.4.0~alpha217
