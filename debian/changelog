@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha219) stable; urgency=medium
+
+  * bump version 1.4.0~alpha219
+
+ -- André Roth <neolynx@gmail.com>  Sat, 23 Jan 2021 20:35:26 +0000
+
 molior-web (1.4.0~alpha218) stable; urgency=medium
 
   * build table: add starttime tooltip
