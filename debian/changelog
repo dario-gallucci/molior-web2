@@ -1,3 +1,9 @@
+molior-web (1.4.0~alpha230) stable; urgency=medium
+
+  * bump version 1.4.0~alpha230
+
+ -- André Roth <neolynx@gmail.com>  Sat, 13 Feb 2021 10:20:27 +0000
+
 molior-web (1.4.0~alpha229) stable; urgency=medium
 
   * mirror: fix dependency level
